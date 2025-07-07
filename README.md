@@ -44,17 +44,22 @@ I'm actively exploring and building with the latest advancements in Agentic AI a
 
 Here are a few projects that highlight my skills and expertise. You can find more in my repositories!
 
-* **[DevSecOps Netflix Clone (Replication & Enhancement)](https://github.com/YourGitHubUsername/DevSecOps-Project)**
+* **[DevSecOps Netflix Clone (Replication & Enhancement)](https://github.com/giriNova74/DevSecOps-Project)**
     * **Description:** An end-to-end DevSecOps pipeline for a Netflix-like Node.js application, integrating security tools (SonarQube, Trivy, OWASP Dependency-Check) into a Jenkins-driven CI/CD workflow, deploying to Kubernetes (EKS), and monitored with Prometheus/Grafana.
     * **Key Learnings:** Shift-left security, complex Jenkins pipelines, container image scanning, and secure application deployment.
-* **[Python Serverless API with AWS Lambda & API Gateway](https://github.com/YourGitHubUsername/python-serverless-api)**
-    * **Description:** Developed a scalable and cost-efficient RESTful API using Python, AWS Lambda, API Gateway, and DynamoDB. Infrastructure provisioned with AWS CloudFormation/Terraform.
-    * **Key Learnings:** Serverless architecture patterns, infrastructure as code for APIs, and optimizing cloud costs.
-* **[Automated AWS Infrastructure Provisioning with Terraform](https://github.com/YourGitHubUsername/aws-terraform-vpc-ec2)**
-    * **Description:** A Terraform module to provision a secure and highly available AWS VPC, including public/private subnets, NAT Gateways, Security Groups, and EC2 instances, demonstrating IaC best practices.
-    * **Key Learnings:** Modular Terraform, network design on AWS, and idempotent infrastructure deployments.
+* **[Weather Forecast App](https://github.com/giriNova74/weather-forecast-app)**
+    * **Description:** A dynamic web application providing live weather forecasting by fetching data from a weather API, offering up-to-date meteorological information.
+    * **Key Learnings:** API integration, asynchronous data handling, front-end development with real-time data.
 
-*(Remember to pin these repositories to your GitHub profile for easy visibility!)*
+* **[Supercharge Python Coding](https://github.com/giriNova74/supercharge_python_coding)**
+    * **Description:** (Still in progress) A comprehensive collection of Python code examples and exercises, designed to guide learners from fundamental concepts to advanced programming techniques.
+    * **Key Learnings:** Python best practices, algorithm implementation, various library applications.
+
+* **[Kubernetes Voyage](https://github.com/giriNova74/kubernetes_voyage)**
+    * **Description:** An ongoing repository exploring various core and advanced concepts of Kubernetes, including deployments, services, ingress, and persistent storage.
+    * **Key Learnings:** Container orchestration, cloud-native architecture, Kubernetes resource management.
+
+
 
 ---
 
