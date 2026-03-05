@@ -10,6 +10,9 @@
 
 Hey there! 👋 I'm a passionate DevOps Engineer and Python Developer on a mission to automate everything, scale cloud infrastructures efficiently, and build robust, secure software delivery pipelines. I love connecting the dots between code, infrastructure, and operations to deliver seamless user experiences.
 
+
+![ItsTimeGIF](https://github.com/user-attachments/assets/123cf8e2-d43f-4e68-9500-28d2ef8966f6)
+
 ---
 
 
